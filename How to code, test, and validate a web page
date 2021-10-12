@@ -1,0 +1,14 @@
+testpage.css
+body{border: 2px solid blue;}
+testpage.html
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+    <meta charset="ufe-8">
+    <title>Test Page</title>
+ <link rel="stylesheet" href="testpage.css">
+<?head>
+<body>
+   <h1>This is the test page.</h1>
+</body>
+</html>
