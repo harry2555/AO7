@@ -5,7 +5,7 @@ testpage.html
     <meta charset="ufe-8">
     <title>Test Page</title>
  <link rel="stylesheet" href="testpage.css">
-<?head>
+</head>
 <body>
    <h1>This is the test page.</h1>
 </body>
